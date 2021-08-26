@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40335" started-at="2021-08-22T14:17:50 IST" finished-at="2021-08-22T14:18:31 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40335" started-at="2021-08-22T14:17:50 IST" finished-at="2021-08-22T14:18:31 IST">
+      <class name="com.testscenarios.staphpAssign">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.testscenarios.staphpAssign@5bcea91b]" name="beforeClass" is-config="true" duration-ms="12398" started-at="2021-08-22T14:17:50 IST" finished-at="2021-08-22T14:18:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.testscenarios.staphpAssign@5bcea91b]" name="f" duration-ms="24575" started-at="2021-08-22T14:18:03 IST" finished-at="2021-08-22T14:18:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.testscenarios.staphpAssign@5bcea91b]" name="afterMethod" is-config="true" duration-ms="1740" started-at="2021-08-22T14:18:28 IST" finished-at="2021-08-22T14:18:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=f status=SUCCESS method=staphpAssign.f()[pri:0, instance:com.testscenarios.staphpAssign@5bcea91b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.testscenarios.staphpAssign@5bcea91b]" name="afterClass" is-config="true" duration-ms="1480" started-at="2021-08-22T14:18:29 IST" finished-at="2021-08-22T14:18:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.testscenarios.staphpAssign -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
